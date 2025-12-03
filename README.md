@@ -12,6 +12,10 @@ Specialized in WordPress, Elementor & Branding
 <p align="center">
   <img src="./images/rebirth/rebirth_mockup.png" alt="Rebirth by Tina Mockup" width="850"/>
 </p>
+### Salon Zsu – Website Preview
+<p align="center">
+  <img src="./images/mockup_salon_zsu.png" alt="Salon Zsu Mockup" width="850"/>
+</p>
 
 
 ## Logo Designs
