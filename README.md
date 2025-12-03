@@ -7,6 +7,12 @@ Specialized in WordPress, Elementor & Branding
 - Rebirth by Tina — https://rebirthbytina.site — Portfolio & Brand Website
 - Salon Zsu — https://szalon-zsu.infinityfree.me — Beauty Salon Website
 - CV Website — https://ktina007.github.io — Personal Portfolio Site (HTML/CSS, fun & playful style)
+- ### Rebirth by Tina – Website Preview
+
+<p align="center">
+  <img src="./images/rebirth/rebirth_mockup.png" alt="Rebirth by Tina Mockup" width="850"/>
+</p>
+
 
 ## Logo Designs
 (Showcase coming soon: Arany Limos, Kiky Gemstones, Salon Zsu, Rebirth by Tina)
